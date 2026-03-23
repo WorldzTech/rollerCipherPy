@@ -16,9 +16,9 @@
 
 ## Полезные материалы для начала работы
 
-[Принцип работы шифра Roller Cipher]()
+[Принцип работы шифра Roller Cipher](https://github.com/WorldzTech/rollerCipherPy/blob/main/docs/roller.md)
 
-[Руководство по API сервера Roller Cipher]()
+[Руководство по API сервера Roller Cipher](https://github.com/WorldzTech/rollerCipherPy/blob/main/docs/endpoints.md)
 
-[Краткий гид по библиотеке requests]()
+[Краткий гид по библиотеке requests](https://github.com/WorldzTech/rollerCipherPy/blob/main/docs/requests.md)
 
