@@ -118,3 +118,4 @@ data = {
 response = requests.post("https://roller.worldz.tech/decrypt", json=data)
 print(response.json())  # {flag} если ключи верные
 ```
+

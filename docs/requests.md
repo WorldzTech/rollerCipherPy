@@ -46,6 +46,9 @@ pip install requests
 import requests
 
 url = "https://roller.worldz.tech/flag"
+
 response = requests.get(url)
+
 print(response.json())  # увидите зашифрованный флаг как список чисел
 ```
+
